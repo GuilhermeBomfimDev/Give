@@ -17,7 +17,7 @@ function Projects() {
       description:
         "A sales management system with customer registration, temporary cart handling, and order processing. Built with ASP.NET Core MVC and MySQL, designed to streamline sales operations from product selection to final transaction.",
       image:
-        "/src/gifs/Midia1.gif",
+        "/gifs/Midia1.gif",
       tech: ["C#", ".NET", "MySQL", "Bootstrap"],
       category: "Web Application",
       year: "2025",
@@ -34,7 +34,7 @@ function Projects() {
       description:
         "AI-powered application that extracts and organizes address information from unformatted text, providing a clear and structured view of location data.",
       image:
-        "/src/images/printBuscaCep.jpg",
+        "/images/printBuscaCep.jpg",
       tech: ["C#", "Python", "AI", "API"],
       category: "Mobile App",
       year: "2025",

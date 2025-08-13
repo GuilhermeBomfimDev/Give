@@ -34,7 +34,7 @@ function Home() {
         "AI-powered app that extracts and organizes address data from text.",
       tech: ["C#", "Python", "AI", "API"],
       image:
-        "/src/images/printBuscaCep.jpg",
+        "/images/printBuscaCep.jpg",
     },
   ];
 

@@ -39,21 +39,21 @@ function About() {
     {
       name: "Eduardo Pimentel",
       role: "Backend and Automations Developer & Tech Lead",
-      image: "/src/images/perfilEduardo.jpg",
+      image: "/images/perfilEduardo.jpg",
       description:
         "5+ years of experience in software architecture, automation systems and team leadership.",
     },
     {
       name: "Guilherme Bomfim",
       role: "Full-Stack Web Developer",
-      image: "/src/images/perfilGuilherme1.jpg",
+      image: "/images/perfilGuilherme1.jpg",
       description:
         "3+ years in modern web technologies and cloud infrastructure.",
     },
     {
       name: "Victor Menezes",
       role: "Mobile Developer",
-      image: "/src/images/perfilVictor.jpg",
+      image: "/images/perfilVictor.jpg",
       description:
         "Mid-level developer in iOS and Android development with 2+ years of experience.",
     },
